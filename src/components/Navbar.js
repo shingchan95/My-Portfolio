@@ -4,8 +4,8 @@ import pdf from '../images/CV.pdf'
 
 function Navbar(){
     let Links =[
-        {name:"ABOUT ME", link:"/"},
-        {name:"PROJECTS", link:"/"},
+        {name:"ABOUT ME", link:"/aboutme"},
+        {name:"PROJECTS", link:"/projects"},
         {name:"CONTACT", link:"/"},
         {name:"VIEW MY CV", link: pdf},
 
