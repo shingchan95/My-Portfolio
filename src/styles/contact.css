@@ -1,0 +1,115 @@
+
+.contact-page {
+    height: 100vh;
+    position: relative;
+    
+
+}
+#MC_background{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    z-index: 0;
+    opacity: 0.1;
+
+}
+.cover-background{
+    background-color:white;
+    height: 22vh;
+}
+
+.contact-me{
+    font-family:"Allerta Stencil";
+    position: absolute;
+    top: 14vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    z-index: 2;
+    color: var(--main-text);
+}
+
+.card-header{
+    color: var(--main-text);
+    font-family:"Allerta Stencil";
+    text-align: center;
+    font-size: 18px;
+}
+.card-title{
+    color: var(--main-text);
+    font-family:"Allerta Stencil";
+}
+
+.card-text{
+    color: var(--main-text);
+    font-family:"Allerta Stencil";
+}
+
+.contact-list{
+    color: var(--main-text);
+    font-family:"Allerta Stencil";
+    font-size: 15px;
+}
+
+
+.card-body a{
+    padding: 25px;
+  }
+
+.contact-header{
+    color: var(--main-text);
+    font-family:"Allerta Stencil";
+    text-align: center;
+    font-size: 18px;
+}
+.contact-form form input, label, button, textarea{
+    color: var(--main-text);
+    font-family:"Allerta Stencil";
+}
+.contact-form label{
+    font-size: 20px;
+    padding:10px
+}
+.contact-form{
+
+    width: 40vw;
+    position: absolute;
+    left: 50vw;
+    top:60vh;
+    transform: translate(-50%, -50%);
+
+}
+
+.contact-form button{
+    color: var(--main-text);
+    background-color: var(--main-background);
+    padding: 12px 20px;
+    border-radius:10px; 
+    font-family:"Allerta Stencil";
+
+}
+
+.contact-message{
+    padding-bottom: 15px;
+}
+
+
+.contact-list{
+    position: absolute;
+    bottom:2vh;
+    left: 50vw;
+    list-style-type: none;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    
+    
+}
+
+
+
+.contact-list a img {
+    padding:5px;
+}
