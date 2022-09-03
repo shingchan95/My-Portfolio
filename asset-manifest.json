@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d11efc1.css",
+    "main.js": "/static/js/main.c2ddd30f.js",
+    "static/media/homepage_background.mp4": "/static/media/homepage_background.0bd4f3da7342c6c469a3.mp4",
+    "static/media/Manchester-background.jpg": "/static/media/Manchester-background.deb91dd5d534d7a73526.jpg",
+    "static/media/my_pic.png": "/static/media/my_pic.f5f25775aae3a1cd6e86.png",
+    "static/media/CV.pdf": "/static/media/CV.d2d59b6667b3d9666e1b.pdf",
+    "static/media/Linkedin-Logo-PNG2.png": "/static/media/Linkedin-Logo-PNG2.92fb7c52cbb1004e2a2d.png",
+    "static/media/github-logo.png": "/static/media/github-logo.1b6bd0e4b6626baba753.png",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.4d11efc1.css.map": "/static/css/main.4d11efc1.css.map",
+    "main.c2ddd30f.js.map": "/static/js/main.c2ddd30f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d11efc1.css",
+    "static/js/main.c2ddd30f.js"
+  ]
+}
