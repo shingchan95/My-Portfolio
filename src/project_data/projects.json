@@ -6,7 +6,7 @@
         "description":"This application provides a rudimentary online banking template. It is a full stack application that primarily utilises Node.js and it employs the MVC pattern.",
         "deployment": "https://peaceful-lassen-volcanic-80125.herokuapp.com/",
         "github":"https://github.com/ChrisAylen/project-bank-heist",
-        "image":"./images/project-bank-heist.JPG",
+        "image":"require(./images/project-bank-heist.JPG)",
         "skills":["html","css","javascript", "sql","express.js","sequelize", "handlebar.js","node.js", "mysql" ],
         "languages":["html","css","javascript", "sql"],
         "framework":["express.js","sequelize", "handlebar.js" ],
